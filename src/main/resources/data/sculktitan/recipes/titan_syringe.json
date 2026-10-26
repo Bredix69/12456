@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:glass_bottle" },
+    { "item": "minecraft:sculk_catalyst" },
+    { "item": "minecraft:iron_ingot" },
+    { "item": "minecraft:amethyst_shard" }
+  ],
+  "result": {
+    "item": "sculktitan:titan_syringe"
+  }
+}

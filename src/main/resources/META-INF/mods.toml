@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="sculktitan"
+version="1.1.0"
+displayName="Sculk Titan"
+description='''
+Шприц, который превращает игрока в скалкового титана.
+A syringe that turns the player into a Sculk Titan.
+'''
+
+[[dependencies.sculktitan]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.sculktitan]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
